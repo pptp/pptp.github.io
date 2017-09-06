@@ -2,17 +2,19 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/).
+I am Mike, fullstack-developer.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+My profiles:
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+[GitHub](https://github.com/pptp)
+
+[LinkedIn](https://www.linkedin.com/in/mike-balashov/)
 
 
-[jekyll-organization]: https://github.com/jekyll
+Contact me:
+
+skype: pptp-1.7.2-1
+email: p26531@gmail.co
